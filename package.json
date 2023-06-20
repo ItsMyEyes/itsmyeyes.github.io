@@ -19,7 +19,7 @@
   ],
   "scripts": {
     "dev": "vitepress dev docs --port 8080 --max-old-space-size=50000",
-    "build": "vitepress build docs",
+    "docs:build": "vitepress build docs",
     "serve": "vitepress serve docs",
     "lint": "eslint --cache .",
     "lint:fix": "nr lint --fix",
