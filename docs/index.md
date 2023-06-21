@@ -23,7 +23,7 @@ features:
   - icon: 🔥
     title: Getting Started
     details: Learn how to use Kiyora, browse the documentation, and check out tutorials.
-    link: /docs/started
+    link: /docs/started.html
     linkText: Getting Started
   - icon: 📋
     title: Docs
