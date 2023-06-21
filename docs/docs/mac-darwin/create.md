@@ -1,10 +1,10 @@
-# ⚒️ Create a new project (WINDOWS)
+# ⚒️ Create a new project (MAC-DARWIN)
 
 /headingTitle
 
-We recommend creating a new app using `i-kiyora.exe`, which sets up everything automatically for you. To create a project, run:
+We recommend creating a new app using `i-kiyora`, which sets up everything automatically for you. To create a project, run:
 ```cmd
-C:\Projects\Golang> i-kiyora.exe create
+$ i-kiyora create
 ```
 
 On installation, you'll see the following prompts:
@@ -19,8 +19,8 @@ On installation, you'll see the following prompts:
 -----------------------------------------------------------------------
 
 You are using go version 1.20.5
-You are using git version git version 2.34.1.windows.1
-Your GOPATH is C:\Projects\Golang
+You are using git version git version 2.34.1.apple.1
+Your GOPATH is /home/itsmyeyes/go/projects
 
 -----------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ What name your github?  ItsMyEyes
 
 Your project name is balance_test_framework
 Your module is github.com/ItsMyEyes/balance_test_framework
-Your path is C:\Projects\Golang\balance_test_framework\
+Your path is /home/itsmyeyes/go/projects/balance_test_framework/
 
 -----------------------------------------------------------------------
 ```
@@ -40,14 +40,14 @@ The prompts will ask you for the following information:
 - **Project Name**: The name of your project. This will be used to name your project's directory and the main module.
 - **Name your github**: The name of your github. This will be used to name your project's github.
 
-After the prompts, `i-kiyora.exe create` will create a folder with your project name and install the required dependencies. This may take a few minutes. Once it's done, you'll see the following message:
+After the prompts, `i-kiyora create` will create a folder with your project name and install the required dependencies. This may take a few minutes. Once it's done, you'll see the following message:
 ```cmd
 -----------------------------------------------------------------------
 
 Your project is ready to use.
 You can run it with the following commands:
 
-$ cd C:\Projects\Golang\balance_test_framework\
+$ cd /home/itsmyeyes/go/projects/balance_test_framework/
 $ go run ./cmd/http-server/main.go
 
 -----------------------------------------------------------------------
@@ -57,7 +57,7 @@ You can now run your project with the following commands:
 
 1. Move to your project directory
 ```cmd
-cd C:\Projects\Golang\balance_test_framework\
+cd /home/itsmyeyes/go/projects/balance_test_framework/
 ```
 2. Run your project
 ```cmd

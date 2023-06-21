@@ -2,7 +2,7 @@
 
 /headingTitle
 
-you are must set GOPATH enviroment, if you don't know how to set it, you can follow this step
+`GOPATH` is an environment variable used in Go (Golang) programming to specify the workspace directory for Go projects. It defines the root of your Go workspace, which contains the source code for your projects, as well as the compiled binaries and other related files.
 ### Windows (GOPATH)
 1. Open a command prompt by pressing `win + r` the enter cmd or use powershell window by pressing `win + i`
 2. type at cmd

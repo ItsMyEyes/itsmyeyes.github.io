@@ -1,5 +1,3 @@
-import autoSidebar from './theme/plugins/autoSidebarBeta'
-
 export default {
   '/': [
     {
@@ -8,10 +6,10 @@ export default {
       items: [
         { text: '🚴‍♂️ Installation', link: '/docs/started' },
         { text: '⚒️ Setup GOPATH', link: '/docs/setup-gopath' },
-        { 
-          text: '💻 How to running program', 
+        {
+          text: '💻 How to running program',
           items: [
-            { 
+            {
               text: 'Windows',
               items: [
                 { text: '📦 Running Program', link: '/docs/windows/run' },
@@ -19,23 +17,26 @@ export default {
                 { text: '📦 Adapter (Soon)', link: '/docs/comming-soon/' },
               ],
             },
-            { 
-              text: 'Linux', link: '/docs/running-program',
+            {
+              text: 'Linux',
               items: [
-                { text: '📦 Create Project', link: '/docs/comming-soon/' },
+                { text: '📦 Running Program', link: '/docs/linux/run' },
+                { text: '📦 Create Project', link: '/docs/linux/create' },
                 { text: '📦 Adapter (Soon)', link: '/docs/comming-soon/' },
               ],
             },
-            { 
-              text: 'Darwin / Mac', link: '/docs/running-program',
+            {
+              text: 'Darwin / Mac',
               items: [
-                { text: '📦 Create Project', link: '/docs/comming-soon/' },
+                { text: '📦 Running Program', link: '/docs/mac-darwin/run' },
+                { text: '📦 Create Project', link: '/docs/mac-darwin/create' },
                 { text: '📦 Adapter (Soon)', link: '/docs/comming-soon/' },
               ],
             },
           ],
         },
-        { text: 'Faq ❓', link: '/docs/setup-gopath' },
+        { text: '🌍 How to migrate', link: '/docs/migrate' },
+        { text: '📝 How to Custom Config', link: '/docs/config/custom' },
       ],
     },
     {
