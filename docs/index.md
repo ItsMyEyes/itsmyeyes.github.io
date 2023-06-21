@@ -10,7 +10,7 @@ hero:
   tagline: |
     Semuanya pasti ada jalanya
   image:
-    src: /assets/banner.png
+    src: https://cdn.discordapp.com/attachments/733162434868674576/1120972226129301574/banner.png
     alt: Kiyora
   actions:
     - theme: brand
