@@ -20,13 +20,13 @@ We recommend creating a new app using installation, which sets up everything aut
 Or you can download here
 
 ### 💻 Mac (Download)
-- [Mac Amd64](https://github.com/ItsMyEyes/i-kiyora/releases/download/v0.2.11/i-kiyora_0.2.11_darwin_amd64.tar.gz)
-- [Mac Arm64](https://github.com/ItsMyEyes/i-kiyora/releases/download/v0.2.11/i-kiyora_0.2.11_darwin_arm64.tar.gz)
+- [Mac Amd64](https://github.com/ItsMyEyes/i-kiyora/releases/download/v0.2.12/i-kiyora_0.2.12_darwin_amd64.tar.gz)
+- [Mac Arm64](https://github.com/ItsMyEyes/i-kiyora/releases/download/v0.2.12/i-kiyora_0.2.12_darwin_arm64.tar.gz)
   
 ### 💻 Windows (Download)
-- [Windows Amd64](https://github.com/ItsMyEyes/i-kiyora/releases/download/v0.2.11/i-kiyora_0.2.11_windows_amd64.tar.gz)
-- [Windows Arm64](https://github.com/ItsMyEyes/i-kiyora/releases/download/v0.2.11/i-kiyora_0.2.11_windows_arm64.tar.gz)
+- [Windows Amd64](https://github.com/ItsMyEyes/i-kiyora/releases/download/v0.2.12/i-kiyora_0.2.12_windows_amd64.tar.gz)
+- [Windows Arm64](https://github.com/ItsMyEyes/i-kiyora/releases/download/v0.2.12/i-kiyora_0.2.12_windows_arm64.tar.gz)
   
 ### 💻 Linux (Download)
-- [Linux Amd64](https://github.com/ItsMyEyes/i-kiyora/releases/download/v0.2.11/i-kiyora_0.2.11_linux_amd64.tar.gz)
-- [Linux Arm64](https://github.com/ItsMyEyes/i-kiyora/releases/download/v0.2.11/i-kiyora_0.2.11_linux_arm64.tar.gz)
+- [Linux Amd64](https://github.com/ItsMyEyes/i-kiyora/releases/download/v0.2.12/i-kiyora_0.2.12_linux_amd64.tar.gz)
+- [Linux Arm64](https://github.com/ItsMyEyes/i-kiyora/releases/download/v0.2.12/i-kiyora_0.2.12_linux_arm64.tar.gz)
